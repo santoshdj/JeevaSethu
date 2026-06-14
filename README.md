@@ -16,6 +16,19 @@ ELIGIBLE ✅ / PARTIAL ⚠️ / INELIGIBLE ❌ per trial + citations
 
 ---
 
+## Further Reading
+
+| Document | Description |
+|---|---|
+| [specs/PRD.md](specs/PRD.md) | Product requirements — problem statement, user stories, success metrics |
+| [docs/adr/0001-initial-architecture.md](docs/adr/0001-initial-architecture.md) | Why FastAPI + React over alternatives |
+| [docs/adr/0002-foundry-iq-knowledge-base.md](docs/adr/0002-foundry-iq-knowledge-base.md) | Why Azure AI Foundry IQ for trial document retrieval |
+| [docs/adr/0003-clinicaltrials-gov-data-source.md](docs/adr/0003-clinicaltrials-gov-data-source.md) | Why ClinicalTrials.gov v2 API as the trial corpus |
+| [docs/adr/0004-no-auth-demo-clinician.md](docs/adr/0004-no-auth-demo-clinician.md) | Why auth is out of scope for the demo build |
+| [CONTEXT.md](CONTEXT.md) | Domain glossary — canonical terms used across the codebase |
+
+---
+
 ## Prerequisites
 
 | Tool | Version | Notes |
