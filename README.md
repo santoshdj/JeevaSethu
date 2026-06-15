@@ -21,6 +21,7 @@ ELIGIBLE ✅ / PARTIAL ⚠️ / INELIGIBLE ❌ per trial + citations
 | Document | Description |
 |---|---|
 | [specs/PRD.md](specs/PRD.md) | Product requirements — problem statement, user stories, success metrics |
+| [docs/tech-stack.md](docs/tech-stack.md) | Full tech stack — every library, Azure service, data source, and design constraint |
 | [docs/adr/0001-initial-architecture.md](docs/adr/0001-initial-architecture.md) | Why FastAPI + React over alternatives |
 | [docs/adr/0002-foundry-iq-knowledge-base.md](docs/adr/0002-foundry-iq-knowledge-base.md) | Why Azure AI Foundry IQ for trial document retrieval |
 | [docs/adr/0003-clinicaltrials-gov-data-source.md](docs/adr/0003-clinicaltrials-gov-data-source.md) | Why ClinicalTrials.gov v2 API as the trial corpus |
